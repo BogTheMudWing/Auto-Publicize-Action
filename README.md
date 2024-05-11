@@ -1,5 +1,5 @@
 # Auto-Publicize-Action
-A GitHub action that makes a repository public after six months of inactivity.
+A GitHub action that makes a repository public after six months of inactivity. I created this project to publish my personal knowledge base in the unusual event that I would not update it for six months.
 
 ## Quick Start
 1. Go to https://github.com/settings/tokens?type=beta and create a new Personal Access Token.
