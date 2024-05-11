@@ -4,7 +4,7 @@ A GitHub action that makes a repository public after six months of inactivity.
 ## Quick Start
 1. Go to https://github.com/settings/tokens?type=beta and create a new Personal Access Token.
 2. Give the token a name and set the expiration to a custom date. This token will only be used for this action, so set it to the latest possible date. Keep in mind that at any given time this token must not expire within six months.
-3. Set the repository access to "Only select repositories" and select the repositorie(s) you want to auto-publicize.
+3. Set the repository access to "Only select repositories" and select the repo(s) you want to auto-publicize.
 4. Under the "Repository Permissions" dropdown, set _Administration_ to _Read and Write_.
 5. Generate the token and copy it to your clipboard.
 6. Go to your repo settings and open the _Actions Secrets_ page (https://github.com/OWNER/REPO/settings/secrets/actions)
